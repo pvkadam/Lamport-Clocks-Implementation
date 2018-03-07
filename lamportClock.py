@@ -11,3 +11,5 @@ class LamportClock:
         return self.time
 
 
+    def getLamportTime(self):
+        return (str(self.time) + "."+ str(self.processID))
