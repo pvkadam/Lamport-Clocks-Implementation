@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 #Created on Thu Oct 5 14:07:10 2017
 
-# @author: ashwini
 
 from socket import *
 from _thread import *
